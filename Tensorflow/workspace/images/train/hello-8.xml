@@ -1,0 +1,26 @@
+<annotation>
+	<folder>all_images</folder>
+	<filename>hello-8.jpg</filename>
+	<path>/Users/jaken1735/objectDetection_CV/Tensorflow/workspace/images/all_images/hello-8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hello</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>640</xmin>
+			<ymin>93</ymin>
+			<xmax>1026</xmax>
+			<ymax>497</ymax>
+		</bndbox>
+	</object>
+</annotation>

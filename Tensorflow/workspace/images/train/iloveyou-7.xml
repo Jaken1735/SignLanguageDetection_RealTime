@@ -1,0 +1,26 @@
+<annotation>
+	<folder>all_images</folder>
+	<filename>iloveyou-7.jpg</filename>
+	<path>/Users/jaken1735/objectDetection_CV/Tensorflow/workspace/images/all_images/iloveyou-7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>IloveYou</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>364</xmin>
+			<ymin>115</ymin>
+			<xmax>793</xmax>
+			<ymax>520</ymax>
+		</bndbox>
+	</object>
+</annotation>
